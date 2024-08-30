@@ -43,7 +43,7 @@ pip install -r requirements.txt
 Clone este repositório:
 
 ```
-https://github.com/Peaky-Hackers/4ngel-DoS.git
+git clone https://github.com/Peaky-Hackers/4ngel-DoS.git
 cd 4ngel-DoS
 ```
 
