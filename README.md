@@ -43,8 +43,8 @@ pip install -r requirements.txt
 Clone este repositório:
 
 ```
-git clone https://github.com/seu-usuario/HTTP-Attack-Simulator.git
-cd HTTP-Attack-Simulator
+git clone https://github.com/Peaky-Hackers/4ngel-DoS/main.py
+cd 4ngel-DoS
 ```
 
 Execute o script:
