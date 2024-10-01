@@ -63,6 +63,10 @@ Defina o número de threads.
 
 Selecione o método HTTP (GET ou POST).
 
+## Links para os Repositórios
+
+- Acesse a [versão com interface gráfica (GUI)](https://github.com/Peaky-Hackers/4ngel-DoS-GUI).
+
 ## Atenção
 
 ⚠️ Este script é uma ferramenta poderosa e deve ser usado apenas em ambientes controlados ou em servidores que você tem permissão para testar. O uso indevido desta ferramenta pode ser ilegal e levar a consequências graves. O autor não se responsabiliza por qualquer uso inadequado.
